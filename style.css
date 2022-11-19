@@ -140,3 +140,7 @@ background-color: var(--off-white);
     .pad {
         padding: 2rem;
     }
+
+    .showcase-blog {
+        padding-bottom: 6rem;
+      }
