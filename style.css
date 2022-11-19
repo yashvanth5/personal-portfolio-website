@@ -136,3 +136,7 @@ background-color: var(--off-white);
 .footer ul {
     padding-inline-start: 0px;
     }
+
+    .pad {
+        padding: 2rem;
+    }
