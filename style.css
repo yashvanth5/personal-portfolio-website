@@ -17,12 +17,14 @@ hr{
 .container
 {
     padding: 0rem 1rem;
+  
 }
 
 .container-center
 {
 max-width: 600px;
 margin: auto;
+
 }
 
 .link {
@@ -99,12 +101,19 @@ margin: auto;
     text-align: center;
 }
 
+.hero .hero-head3 {
+    text-align: center;
+    color: rgb(59, 57, 57);
+}
+
+
 .hero .hero-heading .heading-inverted{
     color: var(--primary-color);
 }
 
 .section{
     padding: 2rem;
+   
 }
 
 .section h1{
@@ -114,6 +123,7 @@ margin: auto;
 .ow
 {
 background-color: var(--off-white);
+
 }
 
 .footer{
