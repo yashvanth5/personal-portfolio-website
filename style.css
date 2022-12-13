@@ -120,11 +120,11 @@ margin: auto;
     text-align: center;
 }
 
-.ow
+/* .ow
 {
 background-color: var(--off-white);
 
-}
+} */
 
 .footer{
     background-color: var(--primary-color);
@@ -154,3 +154,18 @@ background-color: var(--off-white);
     .showcase-blog {
         padding-bottom: 6rem;
       }
+
+      .b1{
+        border: 5px solid var(--primary-color);;
+        box-sizing: content-box;
+        border-radius: 10px ;
+        gap: 10px;
+        margin-left: 150px;
+        margin-right: 150px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding:0px;
+        
+    }
+
+   
