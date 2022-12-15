@@ -168,4 +168,18 @@ background-color: var(--off-white);
         
     }
 
+    .journey-center {
+        width: 70%;
+        margin: auto;
+        display: block;
+         font-size: 20px;
+         margin: 5rem;
+      }
+
+      .quote {
+        padding: 2rem 2rem;
+        padding-left: 2rem;
+        list-style: none;
+        color: black;
+      }
    
